@@ -1,2 +1,0 @@
-._pic-1.jpg: cannot identify image file 'F:/0codeproject/hs26/0620F/public_html/EDM/EDM-540\\._pic-1.jpg'
-._pic-2.png: cannot identify image file 'F:/0codeproject/hs26/0620F/public_html/EDM/EDM-540\\._pic-2.png'
