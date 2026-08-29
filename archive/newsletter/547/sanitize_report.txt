@@ -1,0 +1,22 @@
+圖片安全消毒報告
+==================================================
+
+來源目錄：F:/0codeproject/hongshi/deployment/EDM-547
+輸出目錄：F:\0codeproject\hongshi\deployment\EDM-547_cleaned
+編碼模式：lossy
+
+成功消毒：30 個
+跳過：0 個
+失敗：0 個
+掃描到可疑特徵：2 個
+
+可疑檔案明細
+--------------------------------------------------
+
+547-09.jpg
+    [Metadata:exif] 發現 ASP / JSP 標籤
+    -> 已重建為乾淨 WebP
+
+547-14.jpg
+    [Metadata:exif] 發現 ASP / JSP 標籤
+    -> 已重建為乾淨 WebP
