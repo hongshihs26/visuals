@@ -1,0 +1,18 @@
+圖片安全消毒報告
+==================================================
+
+來源目錄：F:/0codeproject/hongshi/deployment/re/EDM-546
+輸出目錄：F:\0codeproject\hongshi\deployment\re\EDM-546_cleaned
+編碼模式：lossy
+
+成功消毒：32 個
+跳過：0 個
+失敗：0 個
+掃描到可疑特徵：1 個
+
+可疑檔案明細
+--------------------------------------------------
+
+546-32.jpg
+    [Metadata:exif] 發現 ASP / JSP 標籤
+    -> 已重建為乾淨 WebP
