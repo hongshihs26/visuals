@@ -1,0 +1,23 @@
+圖片安全消毒報告
+==================================================
+
+來源目錄：F:/0codeproject/hongshi/deployment/EDM-548
+輸出目錄：F:\0codeproject\hongshi\deployment\EDM-548_cleaned
+編碼模式：lossy
+
+成功消毒：69 個
+跳過：0 個
+失敗：0 個
+掃描到可疑特徵：2 個
+
+可疑檔案明細
+--------------------------------------------------
+
+116me.jpg
+    [Metadata:icc_profile] 發現 ASP / JSP 標籤
+    [Metadata] icc_profile 區塊異常龐大（544 KB）
+    -> 已重建為乾淨 WebP
+
+[Originals]\fb1422-3.jpg
+    [檔尾] 影像結束後仍有 315 bytes 附加資料
+    -> 已重建為乾淨 WebP
