@@ -1,0 +1,20 @@
+{
+  "schema_version": "hongshi-visuals-homepage-banners-v1",
+  "type": "homepage-banners",
+  "data": [
+    {
+      "id": "hs-banner-precepts-2026-11",
+      "title": "2026年傳授在家五戒菩薩戒戒會",
+      "image_url": "https://cdn.jsdelivr.net/gh/hongshihs26/visuals@main/banner/2026/2026-precepts-nov12-15.webp",
+      "image_alt": "2026年傳授在家五戒菩薩戒戒會，11月12日至15日，玄奘大學選佛場，點擊報名",
+      "link_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAQzb6gZUQ04wUEJJUjVCUTVNRjEwU1g5U1hZWERUNi4u&route=shorturl",
+      "enabled": true,
+      "order": 1,
+      "start_date": "2026-10-20",
+      "end_date": "2026-11-15",
+      "show_text": false,
+      "show_button": false,
+      "updated_at": "2026-10-21T00:00:00+08:00"
+    }
+  ]
+}
